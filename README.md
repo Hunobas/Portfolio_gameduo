@@ -18,6 +18,8 @@
 
 ## 1. 사내 프레임워크 환경에서의 실무 경험
 
+![그림5](https://github.com/user-attachments/assets/2282e694-733e-4fde-b230-28a5b101ba55)
+
 **My Little Puppy (드림모션, 2025.01~03 / Unity URP 3D)**
 
 - `LAssetBundle`, `LCoroutine`, `LFlexAnimation`, `LUILayerBase`, `LFlexTween`, `Wine(위젯 변수 관리)` 등 사내 전용 시스템 하에서 콘텐츠 구현
