@@ -10,9 +10,9 @@
 | 역량 | 근거 |
 |------|------|
 | 사내 프레임워크 적응 및 기여 | My Little Puppy: L-series(LAssetBundle/LCoroutine/LFlexAnimation/LSolidEditor 등) 독자 프레임워크에 빠르게 적응하고 실무 기여 |
-| 공통 라이브러리 설계·배포 | ASCII Image UGUI Renderer — UPM 플러그인으로 패키징, 외부 팀도 바로 설치 및 사용 가능 |
-| 다양한 코드베이스 분석 | 낯선 코드에서 버그 원인을 추적/수정한 사례 다수 (루트모션 3건, FSM 포함) |
-| 기획자 친화적 데이터 기반 설계 | ScriptableObject·UDataTable 기반, 코드 수정 없이 밸런싱 가능한 구조 구축 |
+| 공통 라이브러리 설계 및 배포 | ASCII Image UGUI Renderer — UPM 플러그인으로 패키징, 외부 팀도 바로 설치 및 사용 가능 |
+| 다양한 코드베이스 분석 | 낯선 코드에서 버그 원인을 추적/수정한 사례 |
+| 기획자 친화적 데이터 기반 설계 | ScriptableObject/UDataTable 기반, 코드 수정 없이 밸런싱 가능한 구조 구축 |
 
 ---
 
